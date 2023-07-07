@@ -1,4 +1,5 @@
-# Heart disease is a general term that means that the heart is not working normally.
+# Heart Attack Prediction
+Heart disease is a general term that means that the heart is not working normally.
 This dataset gives a number of variables along with a target condition of having or not having heart disease.
 
 Amongst all the organs, The heart is a significant part of our body.
