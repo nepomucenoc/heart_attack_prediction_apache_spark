@@ -54,13 +54,11 @@ criteria)
 
 Using decision trees for classification, the model had an accuracy of 78%. With the following metrics:
 
-  metric|    value|
-+---------+---------+
-|       TP|     43.0|
-|       FP|     15.0|
-|       TN|     35.0|
-|       FN|      7.0|
-|Precision|0.7413793|
-|   Recall|     0.86|
+* |       TP|     43.0|
+* |       FP|     15.0|
+* |       TN|     35.0|
+* |       FN|      7.0|
+* |Precision|0.7413793|
+* |   Recall|     0.86|
 
 
