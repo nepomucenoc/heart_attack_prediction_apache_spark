@@ -43,9 +43,24 @@ criteria)
 
 * **target:** Heart disease (0 = no, 1 = yes)
 
+### Distribution by sex
+
 ![image](https://github.com/nepomucenoc/heart_attack_prediction_apache_spark/assets/72771264/b9632292-87ac-4ad7-bd0c-6c625667139a)
 
-
+### Distribution by by age
 ![newplot](https://github.com/nepomucenoc/heart_attack_prediction_apache_spark/assets/72771264/c93a7e20-b5b0-4d7f-88f7-3606aa7e20d8)
+
+### Prediction result
+
+Using decision trees for classification, the model had an accuracy of 78%. With the following metrics:
+
+  metric|    value|
++---------+---------+
+|       TP|     43.0|
+|       FP|     15.0|
+|       TN|     35.0|
+|       FN|      7.0|
+|Precision|0.7413793|
+|   Recall|     0.86|
 
 
